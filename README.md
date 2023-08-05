@@ -1,37 +1,27 @@
-<h1 align="center">Hi 👋, I'm Motunrayo A</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+# 💫 About Me:
+I am currently working on creating Javascript project and completing the frontend mentor challeges<br>I will love to collaborate with others in open source projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=motuncoded&label=Profile%20views&color=0e75b6&style=flat" alt="motuncoded" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motuncoded" alt="motuncoded" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//motunrayoAdeneye ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/motunadeneye) 
 
-<p align="left"> <a href="https://twitter.com/motunadeneye" target="blank"><img src="https://img.shields.io/twitter/follow/motunadeneye?logo=twitter&style=for-the-badge" alt="motunadeneye" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=motuncoded&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **Javascript projects**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- 🌱 I’m currently learning **Reactjs**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=motuncoded&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 👯 I’m looking to collaborate on **open source projects**
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-- 👨‍💻 All of my projects are available at [github respository](github respository)
+---
+[![](https://visitcount.itsvg.in/api?id=motuncoded&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **Reactjs and Javascript**
-
-- 📫 How to reach me **motunrayoadeneye@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/motuncoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="motuncoded" height="30" width="40" /></a>
-<a href="https://twitter.com/motunadeneye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="motunadeneye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//motunrayoadeneye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/motunrayoadeneye" height="30" width="40" /></a>
-<a href="https://fb.com/motunrayoadeneye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="motunrayoadeneye" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=motuncoded&show_icons=true&locale=en&layout=compact" alt="motuncoded" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motuncoded&show_icons=true&locale=en" alt="motuncoded" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motuncoded&" alt="motuncoded" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

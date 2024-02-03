@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on creating Javascript project and completing the frontend mentor challeges<br>I will love to collaborate with others in open source projects.
+I am currently learning andcreating Javascript project, <br>I will love to collaborate with others in open source projects.
 
 
 ## 🌐 Socials:

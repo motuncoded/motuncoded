@@ -8,11 +8,13 @@ I am currently learning and creating Javascript project, <br>I will love to coll
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black&style=flat-square)
-<br/>
+## Web development
+![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black&style=flat-square&logoWidth=30)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/javascript-lemon.svg?style=for-the-badge&logo=javascript&logoColor=white&style=flat-square)
+<br/>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-red.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square)
+
 ![Reactjs](https://img.shields.io/badge/react-purple.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square)
 ![React-Native](https://img.shields.io/badge/reactnative-orange.svg?style=for-the-badge&logo=react-native&logoColor=white&style=flat-square)
 ![Typescript](https://img.shields.io/badge/typescript-yellow.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat-square)

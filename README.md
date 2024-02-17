@@ -1,15 +1,15 @@
 # 💫 About Me:
-I am currently learning and creating Javascript project, <br>I will love to collaborate with others in open source projects.
+Learning Javascript
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blacksvg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in//motunrayoAdeneye )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in//motunrayoAdeneye )
 [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=Twitter&logoColor=white&logoWidth=30)](https://twitter.com/motunadeneye) 
 
 
 # 💻 Tech Stack:
 ## Web development
-![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black&style=flat-square&Width=30&logoWidth=30)
+![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black&style=flat-square&Width=9000&logoWidth=30)
 ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat-square&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square&logoWidth=30)
 <br/>

@@ -3,7 +3,7 @@ I am currently learning and creating Javascript project, <br>I will love to coll
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//motunrayoAdeneye )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//motunrayoAdeneye )
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/motunadeneye) 
 
 # 💻 Tech Stack:

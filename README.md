@@ -4,16 +4,27 @@ I am currently learning and creating Javascript project, <br>I will love to coll
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//motunrayoAdeneye )
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/motunadeneye) 
+[![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=Twitter&logoColor=white)](https://twitter.com/motunadeneye) 
+
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%FF0000.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%FFFF00.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%010101.svg?style=for-the-badge&logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%0060aa.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%6168061680.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-%0000FF.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React-Native](https://img.shields.io/badge/reactnative-%00FF00.svg?style=for-the-badge&logo=react-native&logoColor=white)
+![Web Development]
+![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-lemon.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+![Css Framework]
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-red.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Javascript library]
+![Reactjs](https://img.shields.io/badge/react-purple.svg?style=for-the-badge&logo=react&logoColor=white)
+
+![Mobile Development]
+![React-Native](https://img.shields.io/badge/reactnative-orange.svg?style=for-the-badge&logo=react-native&logoColor=white)
+
+![high level programming language]
+![Typescript](https://img.shields.io/badge/typescript-yellow.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=motuncoded&theme=dark&hide_border=false)<br/>

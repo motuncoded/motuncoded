@@ -9,7 +9,7 @@ I am currently learning and creating Javascript project, <br>I will love to coll
 
 # 💻 Tech Stack:
 ## Web development
-![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black&style=flat-square&logoWidth=30)
+![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black&style=flat-square&Width=30&height=100)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat-square&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/javascript-lemon.svg?style=for-the-badge&logo=javascript&logoColor=white&style=flat-square&logoWidth=30)
 <br/>

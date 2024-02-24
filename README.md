@@ -11,6 +11,10 @@ I am currently learning Javascript
 ### Web development
 ![HTML5](https://img.shields.io/badge/HTML5-white.svg?style=for-the-badge&logo=HTML5&logoColor=black&style=flat-square&Width=9000&logoWidth=30)
 ![CSS3](https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=CSS3&logoColor=white&style=flat-square&logoWidth=30)
+<br/>
+
+### High level Programming Language
+![Typescript](https://img.shields.io/badge/TYPESCRIPT-black.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat-square&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-white.svg?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&style=flat-square&logoWidth=30)
 <br/>
 ### CSS Framework
@@ -20,17 +24,14 @@ I am currently learning Javascript
 ![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=REACTJS&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Mobile Development
-![React-Native](https://img.shields.io/badge/REACTNATIVE-black.svg?style=for-the-badge&logo=REACTNATIVE&logoColor=white&style=flat-square&logoWidth=30)
+![React-Native](https://img.shields.io/badge/REACTNATIVE-black.svg?style=for-the-badge&logo=REACT-NATIVE&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
-### High level Programming Language
-![Typescript](https://img.shields.io/badge/TYPESCRIPT-black.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat-square&logoWidth=30)
 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=motuncoded&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ### 🔝 Top Contributed Repo

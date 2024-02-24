@@ -17,12 +17,13 @@ I am currently learning Javascript
 ![Typescript](https://img.shields.io/badge/TYPESCRIPT-black.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat-square&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-white.svg?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&style=flat-square&logoWidth=30)
 <br/>
+
 ### CSS Framework
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-black.svg?style=for-the-badge&logo=TAILWINDCSS-css&logoColor=white&style=flat-square&logoWidth=30)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=BOOTSTRAP&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Javascript Framework
-![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=REACTJS&logoColor=white&style=flat-square&logoWidth=30)
+![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor==white&style=flat-square&logoWidth=30)

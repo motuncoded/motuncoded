@@ -19,12 +19,13 @@ I am currently learning Javascript
 <br/>
 ### CSS Framework
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-black.svg?style=for-the-badge&logo=TAILWINDCSS-css&logoColor=white&style=flat-square&logoWidth=30)
+![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=BOOTSTRAP&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Javascript Framework
 ![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=REACTJS&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Mobile Development
-![React-Native](https://img.shields.io/badge/REACTNATIVE-black.svg?style=for-the-badge&logo=REACT-NATIVE&logoColor=white&style=flat-square&logoWidth=30)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor==white&style=flat-square&logoWidth=30)
 <br/>
 
 

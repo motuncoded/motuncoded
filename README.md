@@ -19,7 +19,7 @@ I am currently learning Javascript
 <br/>
 
 ### CSS Framework
-![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-black.svg?style=for-the-badge&logo=TAILWINDCSS-css&logoColor=white&style=flat-square&logoWidth=30)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square&logoWidth=30)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=BOOTSTRAP&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Javascript Framework

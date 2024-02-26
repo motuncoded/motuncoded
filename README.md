@@ -26,7 +26,7 @@ I am currently learning Javascript
 ![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Mobile Development
-![React Native](https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor==white&style=flat-square&logoWidth=30)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 
 

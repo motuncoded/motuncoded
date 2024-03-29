@@ -24,7 +24,7 @@ I am currently learning Javascript
 <br/>
 ### Javascript Framework
 ![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
-![Nextjs](https://img.shields.io/badge/NEXTJS-black.svg?style=for-the-badge&logo=next&logoColor=white&style=flat-square&logoWidth=30)
+![Nextjs](https://img.shields.io/badge/NEXTJS-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)

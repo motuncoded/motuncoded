@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am a self-taught developer with currently learning Javascript and Typescript.
+I am a self-taught developer with currently learning different language in preparartion to solve problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in//motunrayoAdeneye )

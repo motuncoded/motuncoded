@@ -11,14 +11,9 @@ I am a self-taught developer with currently learning different language in prepa
 ![CSS3](https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=CSS3&logoColor=white&style=flat-square&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-white.svg?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&style=flat-square&logoWidth=30)
 
-<br/>
-
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square&logoWidth=30)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-black.svg?style=for-the-badge&logo=BOOTSTRAP&logoColor=white&style=flat-square&logoWidth=30)
 ![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
-
-
-<br/>
 
 ![Nextjs](https://img.shields.io/badge/NEXTJS-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
 ![Typescript](https://img.shields.io/badge/TYPESCRIPT-black.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat-square&logoWidth=30)

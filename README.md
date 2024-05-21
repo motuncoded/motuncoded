@@ -19,8 +19,6 @@ I am a self-taught developer with currently learning different language in prepa
 
 
 <br/>
-
-<br/>
 ![Typescript](https://img.shields.io/badge/TYPESCRIPT-black.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat-square&logoWidth=30)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
 

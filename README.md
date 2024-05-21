@@ -11,13 +11,14 @@ I am a self-taught developer with currently learning different language in prepa
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
-![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square&logoWidth=30)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-black.svg?style=for-the-badge&logo=BOOTSTRAP&logoColor=white&style=flat-square&logoWidth=30)
-![Reactjs](https://img.shields.io/badge/REACTJS-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
-
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![Typescript](https://img.shields.io/badge/TYPESCRIPT-black.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat-square&logoWidth=30)
+
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 
 
 <br/>

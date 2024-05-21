@@ -8,9 +8,10 @@ I am a self-taught developer with currently learning different language in prepa
 
 ## 💻 Tech Stack:
 
-<p align="center">
+<p align="start">
     <a href="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+    </a>
     <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
     <a href="#sponsors" alt="Sponsors on Open Collective">

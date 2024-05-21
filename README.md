@@ -7,12 +7,9 @@ I am a self-taught developer with currently learning different language in prepa
 
 
 ## 💻 Tech Stack:
-### Web development
 ![HTML5](https://img.shields.io/badge/HTML5-white.svg?style=for-the-badge&logo=HTML5&logoColor=black&style=flat-square&Width=9000&logoWidth=30)
 ![CSS3](https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=CSS3&logoColor=white&style=flat-square&logoWidth=30)
 <br/>
-
-### High level Programming Language
 ![Typescript](https://img.shields.io/badge/TYPESCRIPT-black.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat-square&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-white.svg?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&style=flat-square&logoWidth=30)
 <br/>

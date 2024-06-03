@@ -51,7 +51,6 @@ I am a self-taught developer with currently learning different language in prepa
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=motuncoded&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-![](https://github-repository-stats.vercel.app/api?username=motuncoded&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 

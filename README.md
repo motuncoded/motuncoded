@@ -44,6 +44,8 @@ I am a self-taught developer with currently learning different language in prepa
 ![](https://github-readme-stats.vercel.app/api?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=motuncoded&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=motuncoded&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/motuncoded/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=motuncoded&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/motuncoded/github-readme-stats#gh-light-mode-only)
 
 
 ### 🔝 Top Contributed Repo

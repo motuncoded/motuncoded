@@ -20,7 +20,7 @@ I am a self-taught developer currently learning JavaScript and Typescript in pre
 <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
         <img src="(https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
-        <imgsrc="https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30"/>
+        <img src="https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30"/>
         <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
 </p>

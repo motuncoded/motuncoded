@@ -1,4 +1,5 @@
-## 💫 About Me:
+## 💫 About Me
+
 I am a self-taught developer currently learning JavaScript and Typescript in preparartion to solve problems. 
 
 ## 🌐 Socials:

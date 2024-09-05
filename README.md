@@ -7,7 +7,7 @@ I am a self-taught developer currently learning JavaScript and Typescript in pre
 [![Twitter](https://img.shields.io/badge/TWITTER-black.svg?logo=Twitter&logoColor=white&logoWidth=30)](https://twitter.com/motunadeneye) 
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <p align="start">
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />

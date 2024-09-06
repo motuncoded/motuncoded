@@ -36,8 +36,6 @@ I am a self-taught developer currently learning JavaScript and Typescript in pre
 
 
 
-
-
 <br/>
 
 

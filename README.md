@@ -6,7 +6,6 @@ I am a self-taught developer currently learning JavaScript and Typescript in pre
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in//motunrayoAdeneye ) 
 [![Twitter](https://img.shields.io/badge/TWITTER-black.svg?logo=Twitter&logoColor=white&logoWidth=30)](https://twitter.com/motunadeneye) 
 
-
 ## 💻 Tech Stack
 
 <p align="start">

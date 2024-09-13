@@ -8,8 +8,7 @@ I am a self-taught developer currently learning JavaScript and Typescript in pre
 
 ## 💻 Tech Stack
 
-<p align="start">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+<p align="start"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
 </p>
 <p align="start">
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />

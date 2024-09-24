@@ -1,4 +1,4 @@
-## 💫 About Me
+## 💫 About Me 
 
 I am a self-taught developer currently learning to create software that solves problems. 
 

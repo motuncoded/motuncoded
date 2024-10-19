@@ -1,6 +1,6 @@
 ## 💫 About Me 
 
-I am a self-taught developer currently learning to create software that solves problems. 
+A self taught developer who is interested in open source projects.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in//motunrayoAdeneye ) 

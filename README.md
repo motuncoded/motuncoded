@@ -4,7 +4,6 @@ A self taught developer who is interested in open source projects.
 
 <hr/>
 
-![Buy Me a Coffee](https://github.com/user-attachments/assets/eeb68634-6c8c-4397-9c5a-02df8ec231eb)(https://buymeacoffee.com/motunrayo)
 
 
 

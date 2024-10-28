@@ -4,7 +4,8 @@ A self taught developer who is interested in open source projects.
 
 <hr/>
 
-![Buy Me a Coffee](https://buymeacoffee.com/motunrayo) <script type=”text/javascript” src=”https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name=”bmc-button” data-slug=”avery567" data-color=”#FFDD00" data-emoji=”” data-font=”Cookie” data-text=”Buy me a coffee” data-outline-color=”#000000" data-font-color=”#000000" data-coffee-color=”#ffffff” ></script>
+![Buy Me a Coffee](https://github.com/user-attachments/assets/eeb68634-6c8c-4397-9c5a-02df8ec231eb)(https://buymeacoffee.com/motunrayo)
+
 
 
 

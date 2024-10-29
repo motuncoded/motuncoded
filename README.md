@@ -1,12 +1,6 @@
-![buy-me-a-coffee](https://github.com/user-attachments/assets/52985837-18f6-466e-a83e-c627e2729650)## 💫 About Me 
+## 💫 About Me 
 
 A self taught developer who is interested in open source projects.
-
-<hr/>
-
-
-
-
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in//motunrayoAdeneye ) 
@@ -50,6 +44,7 @@ A self taught developer who is interested in open source projects.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=motuncoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 
+[![An image of @motuncoded's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/motuncoded)](https://holopin.io/@motuncoded)
 
 
 ### 🔝 Top Contributed Repo

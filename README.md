@@ -7,25 +7,8 @@ A self taught developer who is interested in open source projects.
 [![Twitter](https://img.shields.io/badge/TWITTER-black.svg?logo=Twitter&logoColor=white&logoWidth=30)](https://twitter.com/motunadeneye) 
 
 ## 💻 Tech Stack
-
-<p align="start"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-</p>
-
-<p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-        <img src="(https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
-        <img src="https://img.shields.io/badge/REACT_NATIVE-black.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square&logoWidth=30"/>
-        <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
-</p>
-<p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge"/>
-
-</p>
-<p>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
-</p>
-  
+<p>Javascript</p>
+<p>Typescript</p>
 
 
 <br/>

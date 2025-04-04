@@ -17,7 +17,7 @@ SpellCards: A flashcard-based learning platform for scientific words with hints,
 
 
 
-##🌱 What I'm Learning
+## 🌱 What I'm Learning
 
 Frontend Performance & API Efficiency: Tracking and optimizing performance.
 

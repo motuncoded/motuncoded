@@ -44,7 +44,7 @@ Tools: Git, GitHub, Testing Libraries
 
 
 
-##📫 Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in//motunrayoAdeneye ) 
 [![Twitter](https://img.shields.io/badge/TWITTER-black.svg?logo=Twitter&logoColor=white&logoWidth=30)](https://twitter.com/motunadeneye) 

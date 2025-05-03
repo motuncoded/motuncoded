@@ -36,13 +36,13 @@ Share knowledge through articles on HTML, JavaScript, and clean code principles.
 
 ## 🛠️ Tech Stack
 
-Frontend: HTML, CSS (Vanilla CSS), JavaScript, React
+Frontend: HTML, CSS, JavaScript,
 
-Backend: Node.js, MongoDB
+Backend: Node.js, Python(learning)
 
-Database: SQL, Python (learning)
+Database: SQL, MongoDB, Supabase
 
-Tools: Git, GitHub, Testing Libraries
+Tools: Git, GitHub, Testing Libraries(learning)
 
 
 

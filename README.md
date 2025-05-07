@@ -4,19 +4,19 @@ Welcome to my GitHub! I'm passionate about frontend development, backend develop
 
 
 ## 🚀 What I'm Working On
-Edulearning: This is a website that showcase learning materials from different categories.
+- Edulearning: This is a website that showcase learning materials from different categories.
 
-Educonnect: This website where learners collaborate with each other.
+- Educonnect: This website where learners collaborate with each other.
 
-Colormood: A colorful website focused on the moods.
+- Colormood: A colorful website focused on the moods.
 
-Educare: A website solving educational problem in Nigeria.
+- Educare: A website solving educational problem in Nigeria.
 
-SpellCards: A flashcard-based learning platform for scientific words with hints, scoring, and instant feedback.
+- SpellCards: A flashcard-based learning platform for scientific words with hints, scoring, and instant feedback.
 
-CurioKids: A website for kids learning about object, numbers, colors and animals
+- CurioKids: A website for kids learning about object, numbers, colors and animals
 
-Biobits: A documentation website explaining biology concepts in bits.
+- Biobits: A documentation website explaining biology concepts in bits.
 
 
 ## 🌱 What I'm Learning

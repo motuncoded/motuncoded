@@ -3,9 +3,6 @@
 Welcome to my GitHub! I'm passionate about frontend development, backend development, and open-source contributions. I'm constantly exploring new technologies and building projects that enhance learning and accessibility.
 
 
-## 🚀 What I'm Working On
-- Collaborating with people
-
 ## 🌱 What I'm Learning
 
 Frontend Performance & API Efficiency: Tracking and optimizing performance.
